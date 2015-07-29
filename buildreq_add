@@ -1,0 +1,13 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-activesupport
+rubygem-bundler
+rubygem-delorean
+rubygem-eventmachine
+rubygem-json
+rubygem-open4
+rubygem-rake
+rubygem-rdoc
+rubygem-shindo
+rubygem-sinatra
