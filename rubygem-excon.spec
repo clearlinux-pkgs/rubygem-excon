@@ -4,7 +4,7 @@
 #
 Name     : rubygem-excon
 Version  : 0.45.4
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/excon-0.45.4.gem
 Source0  : https://rubygems.org/downloads/excon-0.45.4.gem
 Summary  : No detailed summary available
